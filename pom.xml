@@ -10,10 +10,12 @@
   <dependencies>
 
     <dependency>
-      <groupId>com.github.tomas-langer</groupId>
-      <artifactId>chalk</artifactId>
-      <version>1.0.2</version>
+      <groupId>org.fusesource.jansi</groupId>
+      <artifactId>jansi</artifactId>
+      <version>1.18</version>
     </dependency>
+
+
 
     <dependency>
       <groupId>junit</groupId>
